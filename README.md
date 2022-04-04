@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+## Languages
+- Python
+- C
+- C++
+- Java
+- ASM (MIPS)
+
 <!--
 **tde-nico/tde-nico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
