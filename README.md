@@ -1,14 +1,5 @@
 ### Hi there 👋
 
-## Skills
-- Python
-- C
-- C++
-- Java
-- ASM (MIPS)
-- Git
-- Makefile
-
 <!--
 **tde-nico/tde-nico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,14 +18,9 @@ Here are some ideas to get you started:
 -->
 
 ## My Skill Set
+<table><tr><td valign="top" width="50%">
 
-
-
-</td><td valign="top" width="33%">
-
-
-
-### Programming  
+### Programming
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
@@ -44,10 +30,9 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
-
-### DevOps  
+### DevOps
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
@@ -57,9 +42,7 @@ Here are some ideas to get you started:
 
 </td></tr></table>  
 
-<br/>
 
-<br/>
 
 ## Github Stats
 <div align="center">
@@ -69,9 +52,6 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tde-nico&hide_border=true&layout=compact" align="left" style="width: 100%"/>
 </td></tr></table>
 </div>
-
-
-<br/>
 
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=tde-nico&&style=flat-square)
