@@ -46,9 +46,9 @@ Here are some ideas to get you started:
 
 ## Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=tde-nico&show_icons=true&count_private=true&hide_border=true&theme=nightowl" align="left" style="width: 100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=tde-nico&show_icons=true&count_private=true&hide_border=true&theme=nightowl" align="center" style="width: 50%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tde-nico&hide_border=true&layout=compact&theme=nightowl" align="left" style="width: 100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tde-nico&hide_border=true&layout=compact&theme=nightowl" align="center" style="width: 50%"/>
 
 
 
