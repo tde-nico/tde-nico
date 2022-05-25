@@ -60,12 +60,40 @@ Here are some ideas to get you started:
 <div align="center">
 	<table>
 		<tr>
-			<b>My 42 stats</b></br>
-		</tr>
-		<tr>
-      <a href="https://github.com/JaeSeoKim/badge42">
-        <img src="https://badge42.vercel.app/api/v2/cl3lgho45001109mpqdw212jx/stats?cursusId=21&coalitionId=124" />
+                        <a href="https://github.com/JaeSeoKim/badge42">
+                                <img src="https://badge42.vercel.app/api/v2/cl3lgho45001109mpqdw212jx/stats?cursusId=21&coalitionId=124" />
 			</a>
 		</tr>
 	</table>
 </div>
+
+<table border=3 align="center">
+	<tr>
+		<td>
+			Circle
+		</td>
+		<td>
+			Project
+		</td>
+		<td>
+			Language
+		</td>
+		<td>
+			Result
+		</td>
+	</tr>
+	<tr>
+		<td>
+			1
+		</td>
+		<td>
+			<a href="https://github.com/tde-nico/Libft">Libft</a>
+		</td>
+		<td>
+			C
+		</td>
+		<td>
+			<img src="https://badge42.vercel.app/api/v2/cl3lgho45001109mpqdw212jx/project/2454018" />
+		</td>
+	</tr>
+</table>
