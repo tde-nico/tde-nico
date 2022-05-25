@@ -53,3 +53,7 @@ Here are some ideas to get you started:
 
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=tde-nico&&style=flat-square)
+
+
+[![tde-nico's 42 stats](https://badge42.vercel.app/api/v2/cl3lgho45001109mpqdw212jx/stats?cursusId=21&coalitionId=124)](https://github.com/JaeSeoKim/badge42)
+
