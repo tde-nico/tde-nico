@@ -111,7 +111,6 @@ Here are some ideas to get you started:
 </tr></table>
 </div>
 
-<table><tr><td valign="top" width="50%">
 <table border=3 align="center"><tr>
 	<td>
 		Circle
@@ -358,13 +357,12 @@ Here are some ideas to get you started:
 	</td><td>
 		ft_transcendence
 	</td><td>
-		NestJS, TS
+		NestJS, TypeScript
 	</td><td>
 		</br>
 	</td>
 </tr></table>
 
-</td><td valign="top" width="50%">
 
 <table border=3 align="center"><tr>
 	<td>
@@ -428,5 +426,4 @@ Here are some ideas to get you started:
 	</td>
 </tr></table>
 
-</td></tr></table>
 
