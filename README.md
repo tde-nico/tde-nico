@@ -66,8 +66,9 @@ Here are some ideas to get you started:
 	<img src="badges/frameworks_and_libraries/KivyMD.svg"/>
 	<img src="badges/frameworks_and_libraries/Matplotlib.svg"/>
 	<img src="badges/frameworks_and_libraries/Numpy.svg"/>
-	<img src="badges/frameworks_and_libraries/pandas.svg"/>
+	<img src="badges/frameworks_and_libraries/Pandas.svg"/>
 	<img src="badges/frameworks_and_libraries/Pygame.svg"/>
+	<img src="badges/frameworks_and_libraries/Pyinstaller.svg"/>
 	<img src="badges/frameworks_and_libraries/Pytest.svg"/>
 	<img src="badges/frameworks_and_libraries/Raspberry_Pi.svg"/>
 	<img src="badges/frameworks_and_libraries/Scapy.svg"/>
@@ -88,6 +89,7 @@ Here are some ideas to get you started:
 	<img src="badges/softwares_and_tools/Aseprite.svg"/>
 	<img src="badges/softwares_and_tools/Audacity.svg"/>
 	<img src="badges/softwares_and_tools/Debian.svg"/>
+	<img src="badges/softwares_and_tools/FL_Studio.svg"/>
 	<img src="badges/softwares_and_tools/Git.svg"/>
 	<img src="badges/softwares_and_tools/Kali_Linux.svg"/>
 	<img src="badges/softwares_and_tools/Linux.svg"/>
