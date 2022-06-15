@@ -92,8 +92,10 @@ Here are some ideas to get you started:
 	<img src="badges/softwares_and_tools/FL_Studio.svg"/>
 	<img src="badges/softwares_and_tools/Git.svg"/>
 	<img src="badges/softwares_and_tools/Kali_Linux.svg"/>
+	<img src="badges/softwares_and_tools/LabVIEW.svg"/>
 	<img src="badges/softwares_and_tools/Linux.svg"/>
 	<img src="badges/softwares_and_tools/MARS_MIPS.svg"/>
+	<img src="badges/softwares_and_tools/Multisim.svg"/>
 	<img src="badges/softwares_and_tools/Spyder_IDE.svg"/>
 	<img src="badges/softwares_and_tools/Ubuntu.svg"/>
 	<img src="badges/softwares_and_tools/Vim.svg"/>
