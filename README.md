@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 ### Languages
 <div align="center">
 	<img src="badges/languages/Assembly.svg"/>
+	<img src="badges/languages/Auto_Hot_Key.svg"/>
 	<img src="badges/languages/Bash.svg"/>
 	<img src="badges/languages/C.svg"/>
 	<img src="badges/languages/C++.svg"/>
@@ -71,6 +72,7 @@ Here are some ideas to get you started:
 	<img src="badges/frameworks_and_libraries/Pyinstaller.svg"/>
 	<img src="badges/frameworks_and_libraries/Pytest.svg"/>
 	<img src="badges/frameworks_and_libraries/Raspberry_Pi.svg"/>
+	<img src="badges/frameworks_and_libraries/Ren_py.svg"/>
 	<img src="badges/frameworks_and_libraries/Scapy.svg"/>
 <!--
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
@@ -88,6 +90,7 @@ Here are some ideas to get you started:
 	<img src="badges/softwares_and_tools/Apache.svg"/>
 	<img src="badges/softwares_and_tools/Aseprite.svg"/>
 	<img src="badges/softwares_and_tools/Audacity.svg"/>
+	<img src="badges/softwares_and_tools/Colab.svg"/>
 	<img src="badges/softwares_and_tools/Debian.svg"/>
 	<img src="badges/softwares_and_tools/FL_Studio.svg"/>
 	<img src="badges/softwares_and_tools/Git.svg"/>
