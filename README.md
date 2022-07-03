@@ -63,6 +63,7 @@ Here are some ideas to get you started:
 <div align="center">
 	<img src="badges/frameworks_and_libraries/Arduino.svg"/>
 	<img src="badges/frameworks_and_libraries/Junit5.svg"/>
+	<img src="badges/frameworks_and_libraries/Keras.svg"/>
 	<img src="badges/frameworks_and_libraries/kivy.svg"/>
 	<img src="badges/frameworks_and_libraries/KivyMD.svg"/>
 	<img src="badges/frameworks_and_libraries/Matplotlib.svg"/>
@@ -74,6 +75,7 @@ Here are some ideas to get you started:
 	<img src="badges/frameworks_and_libraries/Raspberry_Pi.svg"/>
 	<img src="badges/frameworks_and_libraries/Ren_py.svg"/>
 	<img src="badges/frameworks_and_libraries/Scapy.svg"/>
+	<img src="badges/frameworks_and_libraries/TensorFlow.svg"/>
 <!--
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
