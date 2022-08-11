@@ -40,12 +40,11 @@ Here are some ideas to get you started:
 	<img src="badges/languages/Bash.svg"/>
 	<img src="badges/languages/C.svg"/>
 	<img src="badges/languages/C++.svg"/>
-	<img src="badges/languages/Go.svg"/>
 	<img src="badges/languages/Java.svg"/>
 	<img src="badges/languages/PowerShell.svg"/>
 	<img src="badges/languages/Python.svg"/>
 	<a href="http://tinyurl.com/s63ve48">
-	<img src="badges/others/sus.svg" />
+		<img src="badges/others/sus.svg" />
 	</a>
 <!--
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
@@ -67,7 +66,10 @@ Here are some ideas to get you started:
 	<img src="badges/frameworks_and_libraries/kivy.svg"/>
 	<img src="badges/frameworks_and_libraries/KivyMD.svg"/>
 	<img src="badges/frameworks_and_libraries/Matplotlib.svg"/>
+	<img src="badges/frameworks_and_libraries/Numba.svg"/>
 	<img src="badges/frameworks_and_libraries/Numpy.svg"/>
+	<img src="badges/frameworks_and_libraries/OpenCV.svg"/>
+	<img src="badges/frameworks_and_libraries/OpenGL.svg"/>
 	<img src="badges/frameworks_and_libraries/pandas.svg"/>
 	<img src="badges/frameworks_and_libraries/Pygame.svg"/>
 	<img src="badges/frameworks_and_libraries/Pyinstaller.svg"/>
