@@ -118,13 +118,7 @@ Here are some ideas to get you started:
 </td>
 </tr>
 
-<!--
-<table><tr><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=tde-nico&show_icons=true&count_private=true&hide_border=true&theme=nightowl" align="center" style="width: 100%"/>
-</td><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tde-nico&hide_border=true&layout=compact&theme=nightowl" align="center" style="width: 100%"/>
-</td></tr></table>
--->
+
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=tde-nico&&style=flat-square)
 
