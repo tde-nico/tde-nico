@@ -71,12 +71,7 @@ Here are some ideas to get you started:
 	<img src="badges/frameworks_and_libraries/Ren_py.svg"/>
 	<img src="badges/frameworks_and_libraries/Scapy.svg"/>
 	<img src="badges/frameworks_and_libraries/TensorFlow.svg"/>
-<!--
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" />
--->
+
 </div>
 	
 </td><td valign="top" width="33%">
