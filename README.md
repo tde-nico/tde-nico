@@ -71,7 +71,9 @@ Here are some ideas to get you started:
 	<img src="badges/frameworks_and_libraries/Ren_py.svg"/>
 	<img src="badges/frameworks_and_libraries/Scapy.svg"/>
 	<img src="badges/frameworks_and_libraries/Scikit_Learn.svg"/>
+	<img src="badges/frameworks_and_libraries/Selenium.svg"/>
 	<img src="badges/frameworks_and_libraries/TensorFlow.svg"/>
+	<img src="badges/frameworks_and_libraries/Ursina.svg"/>
 
 </div>
 	
@@ -85,13 +87,16 @@ Here are some ideas to get you started:
 	<img src="badges/softwares_and_tools/Audacity.svg"/>
 	<img src="badges/softwares_and_tools/Colab.svg"/>
 	<img src="badges/softwares_and_tools/Debian.svg"/>
+	<img src="badges/softwares_and_tools/Docker.svg"/>
 	<img src="badges/softwares_and_tools/FL_Studio.svg"/>
 	<img src="badges/softwares_and_tools/Git.svg"/>
+	<img src="badges/softwares_and_tools/Google_Drive.svg"/>
 	<img src="badges/softwares_and_tools/Kali_Linux.svg"/>
 	<img src="badges/softwares_and_tools/LabVIEW.svg"/>
 	<img src="badges/softwares_and_tools/Linux.svg"/>
 	<img src="badges/softwares_and_tools/MARS_MIPS.svg"/>
 	<img src="badges/softwares_and_tools/Multisim.svg"/>
+	<img src="badges/softwares_and_tools/QEMU.svg"/>
 	<img src="badges/softwares_and_tools/Spyder_IDE.svg"/>
 	<img src="badges/softwares_and_tools/Ubuntu.svg"/>
 	<img src="badges/softwares_and_tools/Vim.svg"/>
