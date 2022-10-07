@@ -119,11 +119,13 @@ Here are some ideas to get you started:
 </td>
 <td>
 	<a href="https://github.com/tde-nico?tab=repositories">
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tde-nico&hide_border=true&layout=compact&theme=nightowl&langs_count=10" style="width: 42%">
+			<img src="https://github-readme-streak-stats.herokuapp.com/?user=tde-nico&theme=nightowl&hide_border=true">
 	</a>
 </td>
 </tr>
-
+<a href="https://github.com/tde-nico?tab=repositories">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tde-nico&hide_border=true&layout=compact&theme=nightowl&langs_count=10" style="width: 50%">
+</a>
 
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=tde-nico&&style=flat-square)
