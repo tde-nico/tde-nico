@@ -79,30 +79,30 @@ Here are some ideas to get you started:
 	
 </td><td valign="top" width="33%">
 
-### Softwares and Tools
+### Technologies
 <div align="center">
-	<img src="badges/softwares_and_tools/Android.svg"/>
-	<img src="badges/softwares_and_tools/Apache.svg"/>
-	<img src="badges/softwares_and_tools/Aseprite.svg"/>
-	<img src="badges/softwares_and_tools/Audacity.svg"/>
-	<img src="badges/softwares_and_tools/Colab.svg"/>
-	<img src="badges/softwares_and_tools/Debian.svg"/>
-	<img src="badges/softwares_and_tools/Docker.svg"/>
-	<img src="badges/softwares_and_tools/FL_Studio.svg"/>
-	<img src="badges/softwares_and_tools/Git.svg"/>
-	<img src="badges/softwares_and_tools/Google_Drive.svg"/>
-	<img src="badges/softwares_and_tools/Kali_Linux.svg"/>
-	<img src="badges/softwares_and_tools/LabVIEW.svg"/>
-	<img src="badges/softwares_and_tools/Linux.svg"/>
-	<img src="badges/softwares_and_tools/MARS_MIPS.svg"/>
-	<img src="badges/softwares_and_tools/Multisim.svg"/>
-	<img src="badges/softwares_and_tools/QEMU.svg"/>
-	<img src="badges/softwares_and_tools/Spyder_IDE.svg"/>
-	<img src="badges/softwares_and_tools/Ubuntu.svg"/>
-	<img src="badges/softwares_and_tools/Vim.svg"/>
-	<img src="badges/softwares_and_tools/Virtual_Box.svg"/>
-	<img src="badges/softwares_and_tools/Visual_Studio_Code.svg"/>
-	<img src="badges/softwares_and_tools/VMware.svg"/>
+	<img src="badges/technologies/Android.svg"/>
+	<img src="badges/technologies/Apache.svg"/>
+	<img src="badges/technologies/Aseprite.svg"/>
+	<img src="badges/technologies/Audacity.svg"/>
+	<img src="badges/technologies/Colab.svg"/>
+	<img src="badges/technologies/Debian.svg"/>
+	<img src="badges/technologies/Docker.svg"/>
+	<img src="badges/technologies/FL_Studio.svg"/>
+	<img src="badges/technologies/Git.svg"/>
+	<img src="badges/technologies/Google_Drive.svg"/>
+	<img src="badges/technologies/Kali_Linux.svg"/>
+	<img src="badges/technologies/LabVIEW.svg"/>
+	<img src="badges/technologies/Linux.svg"/>
+	<img src="badges/technologies/MARS_MIPS.svg"/>
+	<img src="badges/technologies/Multisim.svg"/>
+	<img src="badges/technologies/QEMU.svg"/>
+	<img src="badges/technologies/Spyder_IDE.svg"/>
+	<img src="badges/technologies/Ubuntu.svg"/>
+	<img src="badges/technologies/Vim.svg"/>
+	<img src="badges/technologies/Virtual_Box.svg"/>
+	<img src="badges/technologies/Visual_Studio_Code.svg"/>
+	<img src="badges/technologies/VMware.svg"/>
 </div>
 
 </td></tr></table>  
