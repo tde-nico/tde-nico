@@ -53,7 +53,6 @@ Here are some ideas to get you started:
 
 ### Frameworks and Libraries
 <div align="center">
-	<img src="badges/frameworks_and_libraries/Arduino.svg"/>
 	<img src="badges/frameworks_and_libraries/Junit5.svg"/>
 	<img src="badges/frameworks_and_libraries/Keras.svg"/>
 	<img src="badges/frameworks_and_libraries/Kivy.svg"/>
@@ -65,15 +64,12 @@ Here are some ideas to get you started:
 	<img src="badges/frameworks_and_libraries/OpenGL.svg"/>
 	<img src="badges/frameworks_and_libraries/Pandas.svg"/>
 	<img src="badges/frameworks_and_libraries/Pygame.svg"/>
-	<img src="badges/frameworks_and_libraries/Pyinstaller.svg"/>
 	<img src="badges/frameworks_and_libraries/Pytest.svg"/>
-	<img src="badges/frameworks_and_libraries/Raspberry_Pi.svg"/>
 	<img src="badges/frameworks_and_libraries/Ren_py.svg"/>
 	<img src="badges/frameworks_and_libraries/Scapy.svg"/>
 	<img src="badges/frameworks_and_libraries/Scikit_Learn.svg"/>
 	<img src="badges/frameworks_and_libraries/Selenium.svg"/>
 	<img src="badges/frameworks_and_libraries/TensorFlow.svg"/>
-	<img src="badges/frameworks_and_libraries/Ursina.svg"/>
 
 </div>
 	
@@ -81,27 +77,17 @@ Here are some ideas to get you started:
 
 ### Technologies
 <div align="center">
-	<img src="badges/technologies/Android.svg"/>
-	<img src="badges/technologies/Apache.svg"/>
-	<img src="badges/technologies/Aseprite.svg"/>
-	<img src="badges/technologies/Audacity.svg"/>
+	<img src="badges/technologies/Amazon_AWS.svg"/>
+	<img src="badges/frameworks_and_libraries/Arduino.svg"/>
 	<img src="badges/technologies/Colab.svg"/>
-	<img src="badges/technologies/Debian.svg"/>
 	<img src="badges/technologies/Docker.svg"/>
-	<img src="badges/technologies/FL_Studio.svg"/>
 	<img src="badges/technologies/Git.svg"/>
-	<img src="badges/technologies/Google_Drive.svg"/>
-	<img src="badges/technologies/Kali_Linux.svg"/>
-	<img src="badges/technologies/LabVIEW.svg"/>
 	<img src="badges/technologies/Linux.svg"/>
-	<img src="badges/technologies/MARS_MIPS.svg"/>
-	<img src="badges/technologies/Multisim.svg"/>
+	<img src="badges/technologies/Microsoft_Azure.svg"/>
 	<img src="badges/technologies/QEMU.svg"/>
-	<img src="badges/technologies/Spyder_IDE.svg"/>
-	<img src="badges/technologies/Ubuntu.svg"/>
+	<img src="badges/technologies/Terraform.svg"/>
 	<img src="badges/technologies/Vim.svg"/>
 	<img src="badges/technologies/Virtual_Box.svg"/>
-	<img src="badges/technologies/Visual_Studio_Code.svg"/>
 	<img src="badges/technologies/VMware.svg"/>
 </div>
 
