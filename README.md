@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 	<img src="badges/learn/edX.svg"/>
 	<img src="badges/learn/freeCodeCamp.svg"/>
 	<img src="badges/learn/Hack_the_Box.svg"/>
+	<img src="badges/learn/IBM.svg"/>
 	<img src="badges/learn/Sapienza.svg"/>
 	<img src="badges/learn/Solo_Learn.svg"/>
 	<img src="badges/learn/Try_Hack_Me.svg"/>
@@ -40,9 +41,12 @@ Here are some ideas to get you started:
 	<img src="badges/languages/Bash.svg"/>
 	<img src="badges/languages/C.svg"/>
 	<img src="badges/languages/C++.svg"/>
+	<img src="badges/languages/Cobol.svg"/>
 	<img src="badges/languages/Java.svg"/>
+	<img src="badges/languages/JavaScript.svg"/>
 	<img src="badges/languages/PowerShell.svg"/>
 	<img src="badges/languages/Python.svg"/>
+	<img src="badges/languages/TypeScript.svg"/>
 	<a href="http://tinyurl.com/s63ve48">
 		<img src="badges/others/sus.svg" />
 	</a>
@@ -77,18 +81,30 @@ Here are some ideas to get you started:
 
 ### Technologies
 <div align="center">
+	<img src="badges/technologies/Adminer.svg"/>
 	<img src="badges/technologies/Amazon_AWS.svg"/>
+	<img src="badges/technologies/Aseprite.svg"/>
+	<img src="badges/technologies/Audacity.svg"/>
 	<img src="badges/frameworks_and_libraries/Arduino.svg"/>
+	<img src="badges/technologies/Blender.svg"/>
 	<img src="badges/technologies/Colab.svg"/>
 	<img src="badges/technologies/Docker.svg"/>
 	<img src="badges/technologies/Git.svg"/>
+	<img src="badges/technologies/Jupyter.svg"/>
+	<img src="badges/technologies/LabVIEW.svg"/>
 	<img src="badges/technologies/Linux.svg"/>
+	<img src="badges/technologies/MariaDB.svg"/>
 	<img src="badges/technologies/Microsoft_Azure.svg"/>
+	<img src="badges/technologies/Multisim.svg"/>
+	<img src="badges/technologies/Nginx.svg"/>
+	<img src="badges/technologies/Portainer.svg"/>
 	<img src="badges/technologies/QEMU.svg"/>
+	<img src="badges/technologies/Redis.svg"/>
 	<img src="badges/technologies/Terraform.svg"/>
 	<img src="badges/technologies/Vim.svg"/>
 	<img src="badges/technologies/Virtual_Box.svg"/>
 	<img src="badges/technologies/VMware.svg"/>
+	<img src="badges/technologies/Wordpress.svg"/>
 </div>
 
 </td></tr></table>  
