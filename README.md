@@ -47,6 +47,7 @@ Here are some ideas to get you started:
 	<img src="badges/languages/PowerShell.svg"/>
 	<img src="badges/languages/Python.svg"/>
 	<img src="badges/languages/TypeScript.svg"/>
+	<img src="badges/languages/SystemVerilog.svg"/>
 	<a href="http://tinyurl.com/s63ve48">
 		<img src="badges/others/sus.svg" />
 	</a>
