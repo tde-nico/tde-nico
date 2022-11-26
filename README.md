@@ -84,19 +84,14 @@ Here are some ideas to get you started:
 <div align="center">
 	<img src="badges/technologies/Adminer.svg"/>
 	<img src="badges/technologies/Amazon_AWS.svg"/>
-	<img src="badges/technologies/Aseprite.svg"/>
-	<img src="badges/technologies/Audacity.svg"/>
 	<img src="badges/frameworks_and_libraries/Arduino.svg"/>
-	<img src="badges/technologies/Blender.svg"/>
 	<img src="badges/technologies/Colab.svg"/>
 	<img src="badges/technologies/Docker.svg"/>
 	<img src="badges/technologies/Git.svg"/>
 	<img src="badges/technologies/Jupyter.svg"/>
-	<img src="badges/technologies/LabVIEW.svg"/>
 	<img src="badges/technologies/Linux.svg"/>
 	<img src="badges/technologies/MariaDB.svg"/>
 	<img src="badges/technologies/Microsoft_Azure.svg"/>
-	<img src="badges/technologies/Multisim.svg"/>
 	<img src="badges/technologies/Nginx.svg"/>
 	<img src="badges/technologies/Portainer.svg"/>
 	<img src="badges/technologies/QEMU.svg"/>
@@ -110,6 +105,18 @@ Here are some ideas to get you started:
 
 </td></tr></table>  
 
+<table><tr><td valign="top" width="50%">
+
+### Softwares
+<div align="center">
+	<img src="badges/technologies/Aseprite.svg"/>
+	<img src="badges/technologies/Audacity.svg"/>
+	<img src="badges/technologies/Blender.svg"/>
+	<img src="badges/technologies/LabVIEW.svg"/>
+	<img src="badges/technologies/Multisim.svg"/>
+</div>
+
+</td></tr></table>
 
 
 ## Github Stats
