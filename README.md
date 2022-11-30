@@ -65,12 +65,13 @@ Here are some ideas to get you started:
 
 ### Frameworks and Libraries
 <div align="center">
+	<img src="badges/frameworks_and_libraries/Jest.svg"/>
 	<img src="badges/frameworks_and_libraries/Junit5.svg"/>
 	<img src="badges/frameworks_and_libraries/Keras.svg"/>
 	<img src="badges/frameworks_and_libraries/Kivy.svg"/>
 	<img src="badges/frameworks_and_libraries/KivyMD.svg"/>
 	<img src="badges/frameworks_and_libraries/Matplotlib.svg"/>
-	<!-- <img src="badges/frameworks_and_libraries/NestJS.svg"/> --->
+	<img src="badges/frameworks_and_libraries/NestJS.svg"/>
 	<img src="badges/frameworks_and_libraries/Numba.svg"/>
 	<img src="badges/frameworks_and_libraries/Numpy.svg"/>
 	<img src="badges/frameworks_and_libraries/OpenCV.svg"/>
@@ -105,9 +106,9 @@ Here are some ideas to get you started:
 	<img src="badges/technologies/Nginx.svg"/>
 	<img src="badges/technologies/Passport.svg"/>
 	<img src="badges/technologies/Portainer.svg"/>
-	<!-- <img src="badges/technologies/PostgreSQL.svg"/> --->
+	<img src="badges/technologies/PostgreSQL.svg"/>
 	<img src="badges/technologies/Postman.svg"/>
-	<!-- <img src="badges/technologies/Prisma.svg"/> --->
+	<img src="badges/technologies/Prisma.svg"/>
 	<img src="badges/technologies/QEMU.svg"/>
 	<img src="badges/technologies/Redis.svg"/>
 	<img src="badges/technologies/Terraform.svg"/>
