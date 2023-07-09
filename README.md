@@ -92,30 +92,30 @@ Here are some ideas to get you started:
 
 ### Technologies
 <div align="center">
-	<img src="badges/technologies/Adminer.svg"/>
-	<img src="badges/technologies/Amazon_AWS.svg"/>
+	<!-- <img src="badges/technologies/Adminer.svg"/> -->
+	<!-- <img src="badges/technologies/Amazon_AWS.svg"/> -->
 	<img src="badges/frameworks_and_libraries/Arduino.svg"/>
-	<img src="badges/technologies/Colab.svg"/>
+	<!-- <img src="badges/technologies/Colab.svg"/> -->
 	<img src="badges/technologies/Docker.svg"/>
 	<img src="badges/technologies/Git.svg"/>
 	<img src="badges/technologies/Insomnia.svg"/>
-	<img src="badges/technologies/Jupyter.svg"/>
+	<!-- <img src="badges/technologies/Jupyter.svg"/> -->
 	<img src="badges/technologies/Linux.svg"/>
-	<img src="badges/technologies/MariaDB.svg"/>
-	<img src="badges/technologies/Microsoft_Azure.svg"/>
-	<img src="badges/technologies/Nginx.svg"/>
-	<img src="badges/technologies/Passport.svg"/>
-	<img src="badges/technologies/Portainer.svg"/>
-	<img src="badges/technologies/PostgreSQL.svg"/>
+	<!-- <img src="badges/technologies/MariaDB.svg"/> -->
+	<!-- <img src="badges/technologies/Microsoft_Azure.svg"/> -->
+	<!-- <img src="badges/technologies/Nginx.svg"/> -->
+	<!-- <img src="badges/technologies/Passport.svg"/> -->
+	<!-- <img src="badges/technologies/Portainer.svg"/> -->
+	<!-- <img src="badges/technologies/PostgreSQL.svg"/> -->
 	<img src="badges/technologies/Postman.svg"/>
-	<img src="badges/technologies/Prisma.svg"/>
-	<img src="badges/technologies/QEMU.svg"/>
-	<img src="badges/technologies/Redis.svg"/>
-	<img src="badges/technologies/Terraform.svg"/>
+	<!-- <img src="badges/technologies/Prisma.svg"/> -->
+	<!-- <img src="badges/technologies/QEMU.svg"/> -->
+	<!-- <img src="badges/technologies/Redis.svg"/> -->
+	<!-- <img src="badges/technologies/Terraform.svg"/> -->
 	<img src="badges/technologies/Vim.svg"/>
 	<img src="badges/technologies/Virtual_Box.svg"/>
-	<img src="badges/technologies/VMware.svg"/>
-	<img src="badges/technologies/Wordpress.svg"/>
+	<!-- <img src="badges/technologies/VMware.svg"/> -->
+	<!-- <img src="badges/technologies/Wordpress.svg"/> -->
 </div>
 
 </td></tr></table>  
