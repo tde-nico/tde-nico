@@ -37,11 +37,11 @@ Here are some ideas to get you started:
 ### Languages
 <div align="center">
 	<img src="badges/languages/Assembly.svg"/>
-	<img src="badges/languages/Auto_Hot_Key.svg"/>
+	<!-- <img src="badges/languages/Auto_Hot_Key.svg"/> -->
 	<img src="badges/languages/Bash.svg"/>
 	<img src="badges/languages/C.svg"/>
 	<img src="badges/languages/C++.svg"/>
-	<img src="badges/languages/Cobol.svg"/>
+	<!-- <img src="badges/languages/Cobol.svg"/> -->
 	<!-- <img src="badges/languages/CSS3.svg"/> --->
 	<!-- <img src="badges/languages/Fortran.svg"/> --->
 	<!-- <img src="badges/languages/Go.svg"/> --->
@@ -50,10 +50,10 @@ Here are some ideas to get you started:
 	<img src="badges/languages/Java.svg"/>
 	<img src="badges/languages/JavaScript.svg"/>
 	<!-- <img src="badges/languages/Lisp.svg"/> --->
-	<img src="badges/languages/PowerShell.svg"/>
+	<!-- <img src="badges/languages/PowerShell.svg"/> -->
 	<img src="badges/languages/Python.svg"/>
 	<!-- <img src="badges/languages/Rust.svg"/> --->
-	<img src="badges/languages/SystemVerilog.svg"/>
+	<!-- <img src="badges/languages/SystemVerilog.svg"/> -->
 	<img src="badges/languages/TypeScript.svg"/>
 	<a href="http://tinyurl.com/s63ve48">
 		<img src="badges/others/sus.svg" />
