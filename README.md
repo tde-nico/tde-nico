@@ -65,25 +65,25 @@ Here are some ideas to get you started:
 
 ### Frameworks and Libraries
 <div align="center">
-	<img src="badges/frameworks_and_libraries/Jest.svg"/>
-	<img src="badges/frameworks_and_libraries/Junit5.svg"/>
-	<img src="badges/frameworks_and_libraries/Keras.svg"/>
+	<!-- <img src="badges/frameworks_and_libraries/Jest.svg"/> -->
+	<!-- <img src="badges/frameworks_and_libraries/Junit5.svg"/> -->
+	<!-- <img src="badges/frameworks_and_libraries/Keras.svg"/> -->
 	<img src="badges/frameworks_and_libraries/Kivy.svg"/>
 	<img src="badges/frameworks_and_libraries/KivyMD.svg"/>
 	<img src="badges/frameworks_and_libraries/Matplotlib.svg"/>
 	<img src="badges/frameworks_and_libraries/NestJS.svg"/>
 	<img src="badges/frameworks_and_libraries/Numba.svg"/>
 	<img src="badges/frameworks_and_libraries/Numpy.svg"/>
-	<img src="badges/frameworks_and_libraries/OpenCV.svg"/>
+	<!-- <img src="badges/frameworks_and_libraries/OpenCV.svg"/> -->
 	<img src="badges/frameworks_and_libraries/OpenGL.svg"/>
 	<img src="badges/frameworks_and_libraries/Pandas.svg"/>
 	<img src="badges/frameworks_and_libraries/Pygame.svg"/>
-	<img src="badges/frameworks_and_libraries/Pytest.svg"/>
+	<!-- <img src="badges/frameworks_and_libraries/Pytest.svg"/> -->
 	<img src="badges/frameworks_and_libraries/Ren_py.svg"/>
 	<img src="badges/frameworks_and_libraries/Scapy.svg"/>
-	<img src="badges/frameworks_and_libraries/Scikit_Learn.svg"/>
-	<img src="badges/frameworks_and_libraries/Selenium.svg"/>
-	<img src="badges/frameworks_and_libraries/TensorFlow.svg"/>
+	<!-- <img src="badges/frameworks_and_libraries/Scikit_Learn.svg"/> -->
+	<!-- <img src="badges/frameworks_and_libraries/Selenium.svg"/> -->
+	<!-- <img src="badges/frameworks_and_libraries/TensorFlow.svg"/> -->
 	<!-- <img src="badges/frameworks_and_libraries/Vue_js.svg"/> --->
 
 </div>
