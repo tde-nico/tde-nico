@@ -135,7 +135,7 @@ Here are some ideas to get you started:
 
 </td></tr></table>
 
-
+<!--
 ## Github Stats
 
 <tr>
@@ -154,11 +154,11 @@ Here are some ideas to get you started:
 <a href="https://github.com/tde-nico?tab=repositories">
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=tde-nico&theme=nightowl&hide_border=true">
 </a>
-
+-->
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=tde-nico&&style=flat-square)
 
-
+<!--
 ## 42 Stats
 
 <div align="center">
@@ -166,3 +166,4 @@ Here are some ideas to get you started:
 	<img src="https://badge42.vercel.app/api/v2/cl3lgho45001109mpqdw212jx/stats?cursusId=21&coalitionId=124" />
 </tr></table>
 </div>
+-->
