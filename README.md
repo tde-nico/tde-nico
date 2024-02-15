@@ -50,6 +50,7 @@ Here are some ideas to get you started:
 	<img src="badges/languages/Bash.svg"/>
 	<img src="badges/languages/C.svg"/>
 	<img src="badges/languages/C++.svg"/>
+	<img src="badges/languages/cuda.svg"/>
 	<!-- <img src="badges/languages/Cobol.svg"/> -->
 	<!-- <img src="badges/languages/CSS3.svg"/> --->
 	<!-- <img src="badges/languages/Fortran.svg"/> --->
@@ -59,9 +60,11 @@ Here are some ideas to get you started:
 	<img src="badges/languages/Java.svg"/>
 	<img src="badges/languages/JavaScript.svg"/>
 	<!-- <img src="badges/languages/Lisp.svg"/> --->
+	<img src="badges/languages/Mojo.svg"/>
 	<!-- <img src="badges/languages/PowerShell.svg"/> -->
 	<img src="badges/languages/Python.svg"/>
 	<!-- <img src="badges/languages/Rust.svg"/> --->
+	<img src="badges/languages/SML.svg"/>
 	<!-- <img src="badges/languages/SystemVerilog.svg"/> -->
 	<img src="badges/languages/TypeScript.svg"/>
 	<a href="http://tinyurl.com/s63ve48">
@@ -112,6 +115,7 @@ Here are some ideas to get you started:
 	<img src="badges/technologies/Linux.svg"/>
 	<!-- <img src="badges/technologies/MariaDB.svg"/> -->
 	<!-- <img src="badges/technologies/Microsoft_Azure.svg"/> -->
+	<img src="badges/technologies/Neovim.svg"/>
 	<!-- <img src="badges/technologies/Nginx.svg"/> -->
 	<!-- <img src="badges/technologies/Passport.svg"/> -->
 	<!-- <img src="badges/technologies/Portainer.svg"/> -->
@@ -121,9 +125,11 @@ Here are some ideas to get you started:
 	<!-- <img src="badges/technologies/QEMU.svg"/> -->
 	<!-- <img src="badges/technologies/Redis.svg"/> -->
 	<!-- <img src="badges/technologies/Terraform.svg"/> -->
+	<img src="badges/technologies/Tmux.svg"/>
 	<img src="badges/technologies/Vim.svg"/>
 	<img src="badges/technologies/Virtual_Box.svg"/>
 	<!-- <img src="badges/technologies/VMware.svg"/> -->
+	<img src="badges/technologies/Wireshark.svg"/>
 	<!-- <img src="badges/technologies/Wordpress.svg"/> -->
 </div>
 
