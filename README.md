@@ -140,11 +140,10 @@ Here are some ideas to get you started:
 ### Softwares
 <div align="center">
 	<img src="badges/technologies/Aseprite.svg"/>
-	<img src="badges/technologies/Audacity.svg"/>
-	<img src="badges/technologies/Blender.svg"/>
+	<!-- <img src="badges/technologies/Audacity.svg"/> -->
+	<!-- <img src="badges/technologies/Blender.svg"/> -->
 	<img src="badges/technologies/FL_Studio.svg"/>
 	<img src="badges/technologies/LabVIEW.svg"/>
-	<img src="badges/technologies/MARS_MIPS.svg"/>
 	<img src="badges/technologies/Multisim.svg"/>
 </div>
 
