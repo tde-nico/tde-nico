@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 	<img src="badges/languages/Mojo.svg"/>
 	<!-- <img src="badges/languages/PowerShell.svg"/> -->
 	<img src="badges/languages/Python.svg"/>
-	<!-- <img src="badges/languages/Rust.svg"/> --->
+	<img src="badges/languages/Rust.svg"/>
 	<img src="badges/languages/SML.svg"/>
 	<!-- <img src="badges/languages/SystemVerilog.svg"/> -->
 	<img src="badges/languages/TypeScript.svg"/>
