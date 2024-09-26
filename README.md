@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 	<!-- <img src="badges/languages/Fortran.svg"/> --->
 	<img src="badges/languages/Go.svg"/>
 	<img src="badges/languages/Haskell.svg"/>
-	<!-- <img src="badges/languages/HTML5.svg"/> --->
+	<img src="badges/languages/HTML5.svg"/>
 	<img src="badges/languages/Java.svg"/>
 	<img src="badges/languages/JavaScript.svg"/>
 	<!-- <img src="badges/languages/Lisp.svg"/> --->
