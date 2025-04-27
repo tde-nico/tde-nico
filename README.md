@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 <div align="left">
 	<img src="badges/learn/42_Luiss.svg"/>
 	<img src="badges/learn/Cisco.svg"/>
-	<img src="badges/learn/edX.svg"/>
+<!-- 	<img src="badges/learn/edX.svg"/> -->
 	<img src="badges/learn/freeCodeCamp.svg"/>
-	<img src="badges/learn/IBM.svg"/>
+<!-- 	<img src="badges/learn/IBM.svg"/> -->
 	<img src="badges/learn/Sapienza.svg"/>
-	<img src="badges/learn/Solo_Learn.svg"/>
+<!-- 	<img src="badges/learn/Solo_Learn.svg"/> -->
 	<!-- <img src="badges/learn/Udacity.svg"/> -->
 	<img src="badges/learn/Udemy.svg"/>
 </div>
@@ -56,17 +56,17 @@ Here are some ideas to get you started:
 	<!-- <img src="badges/languages/Fortran.svg"/> --->
 	<img src="badges/languages/Go.svg"/>
 	<img src="badges/languages/Haskell.svg"/>
-	<img src="badges/languages/HTML5.svg"/>
-	<img src="badges/languages/Java.svg"/>
-	<img src="badges/languages/JavaScript.svg"/>
+<!-- 	<img src="badges/languages/HTML5.svg"/> -->
+<!-- 	<img src="badges/languages/Java.svg"/> -->
+<!-- 	<img src="badges/languages/JavaScript.svg"/> -->
 	<!-- <img src="badges/languages/Lisp.svg"/> --->
-	<img src="badges/languages/Mojo.svg"/>
+<!-- 	<img src="badges/languages/Mojo.svg"/> -->
 	<!-- <img src="badges/languages/PowerShell.svg"/> -->
 	<img src="badges/languages/Python.svg"/>
-	<img src="badges/languages/Rust.svg"/>
+<!-- 	<img src="badges/languages/Rust.svg"/> -->
 	<img src="badges/languages/SML.svg"/>
 	<!-- <img src="badges/languages/SystemVerilog.svg"/> -->
-	<img src="badges/languages/TypeScript.svg"/>
+<!-- 	<img src="badges/languages/TypeScript.svg"/> -->
 	<a href="http://tinyurl.com/s63ve48">
 		<img src="badges/others/sus.svg" />
 	</a>
@@ -83,15 +83,15 @@ Here are some ideas to get you started:
 	<img src="badges/frameworks_and_libraries/Kivy.svg"/>
 	<img src="badges/frameworks_and_libraries/KivyMD.svg"/>
 	<img src="badges/frameworks_and_libraries/Matplotlib.svg"/>
-	<img src="badges/frameworks_and_libraries/NestJS.svg"/>
-	<img src="badges/frameworks_and_libraries/Numba.svg"/>
+<!-- 	<img src="badges/frameworks_and_libraries/NestJS.svg"/> -->
+<!-- 	<img src="badges/frameworks_and_libraries/Numba.svg"/> -->
 	<img src="badges/frameworks_and_libraries/Numpy.svg"/>
-	<!-- <img src="badges/frameworks_and_libraries/OpenCV.svg"/> -->
-	<img src="badges/frameworks_and_libraries/OpenGL.svg"/>
+	<img src="badges/frameworks_and_libraries/OpenCV.svg"/>
+<!-- 	<img src="badges/frameworks_and_libraries/OpenGL.svg"/> -->
 	<img src="badges/frameworks_and_libraries/Pandas.svg"/>
 	<img src="badges/frameworks_and_libraries/Pygame.svg"/>
 	<!-- <img src="badges/frameworks_and_libraries/Pytest.svg"/> -->
-	<img src="badges/frameworks_and_libraries/Ren_py.svg"/>
+<!-- 	<img src="badges/frameworks_and_libraries/Ren_py.svg"/> -->
 	<img src="badges/frameworks_and_libraries/Scapy.svg"/>
 	<!-- <img src="badges/frameworks_and_libraries/Scikit_Learn.svg"/> -->
 	<!-- <img src="badges/frameworks_and_libraries/Selenium.svg"/> -->
@@ -115,21 +115,21 @@ Here are some ideas to get you started:
 	<img src="badges/technologies/Linux.svg"/>
 	<!-- <img src="badges/technologies/MariaDB.svg"/> -->
 	<!-- <img src="badges/technologies/Microsoft_Azure.svg"/> -->
-	<img src="badges/technologies/Neovim.svg"/>
+<!-- 	<img src="badges/technologies/Neovim.svg"/> -->
 	<!-- <img src="badges/technologies/Nginx.svg"/> -->
 	<!-- <img src="badges/technologies/Passport.svg"/> -->
 	<!-- <img src="badges/technologies/Portainer.svg"/> -->
 	<!-- <img src="badges/technologies/PostgreSQL.svg"/> -->
-	<img src="badges/technologies/Postman.svg"/>
+<!-- 	<img src="badges/technologies/Postman.svg"/> -->
 	<!-- <img src="badges/technologies/Prisma.svg"/> -->
 	<!-- <img src="badges/technologies/QEMU.svg"/> -->
 	<!-- <img src="badges/technologies/Redis.svg"/> -->
 	<!-- <img src="badges/technologies/Terraform.svg"/> -->
 	<img src="badges/technologies/Tmux.svg"/>
 	<img src="badges/technologies/Vim.svg"/>
-	<img src="badges/technologies/Virtual_Box.svg"/>
+<!-- 	<img src="badges/technologies/Virtual_Box.svg"/> -->
 	<!-- <img src="badges/technologies/VMware.svg"/> -->
-	<img src="badges/technologies/Wireshark.svg"/>
+<!-- 	<img src="badges/technologies/Wireshark.svg"/> -->
 	<!-- <img src="badges/technologies/Wordpress.svg"/> -->
 </div>
 
