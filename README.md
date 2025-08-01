@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <!-- 	<img src="badges/learn/edX.svg"/> -->
 	<img src="badges/learn/freeCodeCamp.svg"/>
 <!-- 	<img src="badges/learn/IBM.svg"/> -->
-	<img src="badges/learn/Sapienza.svg"/>
+<!-- 	<img src="badges/learn/Sapienza.svg"/> -->
 <!-- 	<img src="badges/learn/Solo_Learn.svg"/> -->
 	<!-- <img src="badges/learn/Udacity.svg"/> -->
 	<img src="badges/learn/Udemy.svg"/>
@@ -34,10 +34,10 @@ Here are some ideas to get you started:
 	<img src="badges/learn/CTFTime.svg"/>
 	<img src="badges/learn/CryptoHack.svg"/>
 	<img src="badges/learn/CyberChallenge.svg"/>
-	<img src="badges/learn/Hack_the_Box.svg"/>
+<!-- 	<img src="badges/learn/Hack_the_Box.svg"/> -->
 	<img src="badges/learn/mHackeroni.svg"/>
 	<img src="badges/learn/TheRomanXpl0it.svg"/>
-	<img src="badges/learn/Try_Hack_Me.svg"/>
+<!-- 	<img src="badges/learn/Try_Hack_Me.svg"/> -->
 </div>
 
 ## My Skill Set
